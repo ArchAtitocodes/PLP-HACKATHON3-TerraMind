@@ -19,10 +19,10 @@ TerraMind is a production-ready platform designed to empower farmers, NGOs, and 
 ## 🔗 Repository Link
 
 **The GitHub repository for this project can be found at:**
-`https://github.com/<YOUR_GITHUB_USERNAME>/TerraMind`
+[`https://github.com/ArchAtitocodes/`](https://github.com/ArchAtitocodes/PLP-HACKATHON3-TerraMind.git)
 
-*(Please replace `<YOUR_GITHUB_USERNAME>` with your actual GitHub username after creating the repository.)*
 
+ [PITCH](https://www.canva.com/design/DAG1l80baI0/m18F-kELQDIE7eUmrcvzvw/edit?utm_content=DAG1l80baI0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
 ## 🧱 Architecture Diagram
