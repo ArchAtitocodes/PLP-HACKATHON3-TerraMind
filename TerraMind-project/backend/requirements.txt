@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+numpy
+opencv-python-headless
+scikit-learn
+google-generativeai
+requests
+supabase
+python-multipart # For file uploads
+sentinelhub
+pandas
